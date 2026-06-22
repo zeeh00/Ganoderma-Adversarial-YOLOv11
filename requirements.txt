@@ -1,7 +1,7 @@
-torch>=2.0.0
-torchvision>=0.15.0
-ultralytics==8.0.0  # (Ganti dengan versi YOLOv11/Ultralytics yang Anda pakai)
-opencv-python
-numpy
-matplotlib
-pandas
+ultralytics>=8.4.0
+torch>=2.1.0
+torchvision>=0.16.0
+matplotlib>=3.7.0
+pillow>=9.4.0
+numpy>=1.24.0
+opencv-python>=4.7.0
