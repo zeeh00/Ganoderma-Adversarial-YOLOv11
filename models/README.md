@@ -9,7 +9,7 @@ To successfully execute the replication notebooks and run independent inference 
    * *Download Link:* `https://github.com/zeeh00/Ganoderma-Adversarial-YOLOv11/blob/main/models/yolov11_baseline_gpu.pt`
 
 2. **`yolov11_defended.pt`** * *Description:* The proposed secure YOLOv11 Nano framework reinforced via robust Adversarial Training.
-   * *Download Link:* `[PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE]`
+   * *Download Link:* `https://github.com/zeeh00/Ganoderma-Adversarial-YOLOv11/blob/main/models/yolov11_defended_gpu.pt`
 
 ## ⚠️ Important Note for Git Users
 Actual binary weight parameters (`.pt` and `.pth` files) are structurally excluded from direct Git tracking to maintain repository lightweight optimization and prevent version control bloat. Ensure that the filenames of the downloaded models match these references exactly before executing any scripts within the `notebooks/` directory.
