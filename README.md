@@ -17,8 +17,8 @@ This repository contains the official implementation, replication scripts, and r
 
 ## 💾 Trained Model Weights Download Links
 To replicate the evaluation environment, download the files manually and place them into the `models/` directory:
-* 📥 **YOLOv11 Nano Baseline Weights (`best.pt`):** `[PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE]`
-* 📥 **Proposed Adversarially Trained YOLOv11 Weights (`best.pt`):** `[PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE]`
+* 📥 **YOLOv11 Nano Baseline Weights (`yolov11_baseline.pt`):** `https://github.com/zeeh00/Ganoderma-Adversarial-YOLOv11/blob/main/models/yolov11_baseline_gpu.pt`
+* 📥 **Proposed Adversarially Trained YOLOv11 Weights (`yolov11_defended.pt`):** `https://github.com/zeeh00/Ganoderma-Adversarial-YOLOv11/blob/main/models/yolov11_defended_gpu.pt`
 
 
 ## 🛠️ Installation & Setup
