@@ -1,1 +1,9 @@
+DATA ACCESSIBILITY & POLICY STATEMENT
 
+Due to proprietary regulations, non-disclosure agreements, and confidentiality clauses signed with commercial oil palm plantation partners in the North Sumatra region, Indonesia, the complete raw dataset used in this research cannot be publicly distributed or shared. 
+
+To support academic reproducibility and structure verification, this 'dataset_sample/' directory provides a minimal anonymized subset demonstrating the exact resolution, formatting, and YOLO annotation layout employed throughout the experimental pipeline.
+
+For structural references:
+- Class 0: Healthy / Normal Palm
+- Class 1: Ganoderma Infected Base
