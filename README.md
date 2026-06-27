@@ -24,7 +24,7 @@ To replicate the evaluation environment, download the files manually and place t
 ## 🛠️ Installation & Setup
 1. **Clone the Repository:**
    bash
-   git clone [https://github.com/USERNAME/REPOSITORY-NAME.git](https://github.com/USERNAME/REPOSITORY-NAME.git)
+   git clone 'https://github.com/zeeh00/Ganoderma-Adversarial-YOLOv11'
    cd REPOSITORY-NAME
 
 2. **Install Dependencies:**
