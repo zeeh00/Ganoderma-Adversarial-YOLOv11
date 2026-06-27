@@ -16,9 +16,8 @@ This repository contains the official implementation, replication scripts, and r
 
 
 ## 💾 Trained Model Weights Download Links
-Due to GitHub file size limitations for raw neural network parameters, the compiled weights are externally hosted via Google Drive. To replicate the evaluation environment, download the files manually and place them into the `models/` directory:
+To replicate the evaluation environment, download the files manually and place them into the `models/` directory:
 * 📥 **YOLOv11 Nano Baseline Weights (`best.pt`):** `[PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE]`
-* 📥 **ResNet50 Comparative Classifier Weights (`resnet50_baseline.pth`):** `[PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE]`
 * 📥 **Proposed Adversarially Trained YOLOv11 Weights (`best.pt`):** `[PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE]`
 
 
