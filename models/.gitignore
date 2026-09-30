@@ -1,0 +1,8 @@
+# Ignore all PyTorch model weight files generated locally
+*.pt
+*.pth
+*.weights
+
+# EXCEPT the specific pre-trained YOLOv11 weights explicitly provided in this repository
+!yolov11_baseline_gpu.pt
+!yolov11_defended_gpu.pt
